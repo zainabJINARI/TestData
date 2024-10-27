@@ -1,0 +1,10 @@
+main{
+    display: flex;
+    flex-direction: column;
+    
+}
+main >h2{
+    text-align: center;
+    color: #023e8a;
+    margin-top: 2em;
+}
